@@ -344,6 +344,12 @@
 	 "description":"Aspiring Software Developer and competitive coder",
 	 "githuburl":"https://github.com/VipulRaj-123",
 	 "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
+    },    {
+	 "name":"Rashid Wassan",
+	 "avatar":"https://user-images.githubusercontent.com/60597290/133908886-021bc16e-0dde-49a7-8657-521ee2903707.png", 
+	 "description":"Google DSC Lead | A Flutter Developer with MERN Stack skills | Community Builder.",
+	 "githuburl":"https://github.com/rashidwassan",
+	 "linkedinurl":"https://www.linkedin.com/in/rashidwassan/"  
     }	    
     ]
 }
